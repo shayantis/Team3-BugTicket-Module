@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Team3-BugTicket-Module
-=======
 # Team 3 - Bug Ticket Management Module
 
 ## Objective
